@@ -1,0 +1,12 @@
+{
+    "defaultEntryPoint": "index.html",
+    "namespace": "USTNR_pruefung",
+    "menuEntries": [
+        {
+        "label": "UST-IdNr Prüfung",
+        "menu": "start",
+        "urlKey": "USTNR_pruefung",
+        "entryPoint": "index.html"
+        }
+    ]
+}

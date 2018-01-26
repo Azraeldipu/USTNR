@@ -1,7 +1,7 @@
 {
     "name": "USt.-IdNr Prüfung",
     "description": "Prüft die angegebene USt.-IdNr.",
-    "namespace": "USTNR_pruefung",
+    "namespace": "USTNR",
     "author": "Your name",
     "type": "backend",
     "serviceProvider": "USTNR_pruefung\\Providers\\MyFirstViewServiceProvider"

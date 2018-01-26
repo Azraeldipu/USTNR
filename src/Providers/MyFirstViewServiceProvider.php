@@ -1,6 +1,6 @@
 <?php
 
-namespace USTNR_pruefung\Providers;
+namespace USTNR\Providers;
 
 use Plenty\Plugin\ServiceProvider;
 
